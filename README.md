@@ -4,14 +4,14 @@
 
 </div>
 <p align='center'>
-    <a href="https://www.youtube.com/@raupulus"><img height="30" src="https://raw.githubusercontent.com/raupulus/raupulus/master/icons/youtube.svg?raw=true" target="_blank"/></a>
-    <a href="https://www.twitch.tv/raupulus"><img height="30" src="https://raw.githubusercontent.com/raupulus/raupulus/master/icons/twitch.svg?raw=true" target="_blank" /></a>
-    <a href="https://www.linkedin.com/in/raulcaropastorino"><img height="30" src="https://raw.githubusercontent.com/raupulus/raupulus/master/icons/linkedin.svg?raw=true" target="_blank" /></a>
-    <a href="https://gitlab.com/raupulus"><img height="30" src="https://raw.githubusercontent.com/raupulus/raupulus/master/icons/gitlab.svg?raw=true" target="_blank" /></a>
-    <a href="https://github.com/raupulus"><img height="30" src="https://raw.githubusercontent.com/raupulus/raupulus/master/icons/github.svg?raw=true" target="_blank" /></a>
-    <a href="https://mastodon.online/@raupulus"><img height="30" src="https://raw.githubusercontent.com/raupulus/raupulus/master/icons/mastodon.svg?raw=true" target="_blank" /></a>
-    <a href="https://twitter.com/raupulus"><img height="30" src="https://raw.githubusercontent.com/raupulus/raupulus/master/icons/twitter.svg?raw=true" target="_blank" /></a>
-    <a href="https://www.buymeacoffee.com/raupulus"><img height="30" src="https://raw.githubusercontent.com/raupulus/raupulus/master/icons/by-me-a-coffee.png?raw=true" target="_blank" /></a>
+    <a href="https://www.youtube.com/@raupulus" target="_blank"><img height="30" src="https://raw.githubusercontent.com/raupulus/raupulus/master/icons/youtube.svg?raw=true" /></a>
+    <a href="https://www.twitch.tv/raupulus" target="_blank"><img height="30" src="https://raw.githubusercontent.com/raupulus/raupulus/master/icons/twitch.svg?raw=true" /></a>
+    <a href="https://www.linkedin.com/in/raulcaropastorino" target="_blank"><img height="30" src="https://raw.githubusercontent.com/raupulus/raupulus/master/icons/linkedin.svg?raw=true" /></a>
+    <a href="https://gitlab.com/raupulus" target="_blank"><img height="30" src="https://raw.githubusercontent.com/raupulus/raupulus/master/icons/gitlab.svg?raw=true" /></a>
+    <a href="https://github.com/raupulus" target="_blank"><img height="30" src="https://raw.githubusercontent.com/raupulus/raupulus/master/icons/github.svg?raw=true" /></a>
+    <a href="https://mastodon.online/@raupulus" target="_blank"><img height="30" src="https://raw.githubusercontent.com/raupulus/raupulus/master/icons/mastodon.svg?raw=true" /></a>
+    <a href="https://twitter.com/raupulus" target="_blank"><img height="30" src="https://raw.githubusercontent.com/raupulus/raupulus/master/icons/twitter.svg?raw=true"  /></a>
+    <a href="https://www.buymeacoffee.com/raupulus" target="_blank"><img height="30" src="https://raw.githubusercontent.com/raupulus/raupulus/master/icons/by-me-a-coffee.png?raw=true" /></a>
 </p>
 
 <p align="center">
