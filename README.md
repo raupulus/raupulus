@@ -9,10 +9,14 @@
     <a href="https://www.linkedin.com/in/raulcaropastorino/"><img height="30" src="https://raw.githubusercontent.com/raupulus/raupulus/master/icons/linkedin.png?raw=true" /></a>
 </p>
 
+<p align="center">
+    <a href="https://raupulus.dev">raupulus.dev</a>
+</p>
+
 # <h1 align="center">Raúl Caro Pastorino</h1>
 
 <p align="center">
-    <a href="https://raupulus.dev">raupulus.dev</a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raupulus&amp;theme=radical&amp;layout=compact&amp;langs_count=10" alt="Raúl Caro Pastorino (Raupulus) github stats" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=raupulus&amp;theme=radical&amp;layout=compact&amp;langs_count=10" style="max-width: 100%;">
 </p>
 
 ---
