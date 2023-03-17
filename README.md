@@ -21,6 +21,10 @@
 # <h1 align="center">Raúl Caro Pastorino</h1>
 
 <p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=raupulus&theme=onedark" alt="raupulus" />
+</p>
+
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raupulus&amp;theme=radical&amp;layout=compact&amp;langs_count=10" alt="Raúl Caro Pastorino (Raupulus) github stats" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=raupulus&amp;theme=radical&amp;layout=compact&amp;langs_count=10" style="max-width: 100%;">
 </p>
 
@@ -28,13 +32,13 @@
 
 ## Acerca de mí
 
-Soy un desarrollador web con más de 10 años de experiencia, me gusta aprender y compartir conocimientos.
+Soy desarrollador red principalmente backend con php, laravel, python, bash, javascript, vuejs, postgresql y mariadb aunque también he trabajado en algunos proyectos con angular, vue.js, ionic, typescript, jquery y nodejs.
 
-Afinidad por el software libre, la programación, iot y la tecnología en general.
+Afinidad por el software libre, programación, iot y la tecnología en general.
 
-Soy desarrollador web especializándome en la parte backend, principalmente desarrollo con php (laravel), python, bash, postgresql, javascript, typescript, jquery y nodejs. Aunque también he trabajado en algunos proyectos con angular, vue.js, ionic.
+Me gusta programar y crear contenido en mi tiempo libre, tengo varios proyectos con guías, tutoriales y apuntes propios.
 
-Me gusta escribir aportando al software libre, tengo algunos proyectos para compartir tutoriales y apuntes propios.
+---
 
 ## Mis Habilidades
 
