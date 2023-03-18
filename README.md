@@ -21,18 +21,18 @@
 # <h1 align="center">Raúl Caro Pastorino</h1>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=raupulus&theme=onedark" alt="raupulus" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raupulus&amp;theme=radical&amp;layout=compact&amp;langs_count=10" alt="Raúl Caro Pastorino (Raupulus) github stats" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=raupulus&amp;theme=radical&amp;layout=compact&amp;langs_count=10" style="width:100%; max-width: 400px;">
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raupulus&amp;theme=radical&amp;layout=compact&amp;langs_count=10" alt="Raúl Caro Pastorino (Raupulus) github stats" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=raupulus&amp;theme=radical&amp;layout=compact&amp;langs_count=10" style="max-width: 100%;">
+<img src="https://github-profile-trophy.vercel.app/?username=raupulus&theme=onedark&column=-1" style="width:100%;" alt="raupulus" />
 </p>
 
 ---
 
 ## Acerca de mí
 
-Soy desarrollador red principalmente backend con php, laravel, python, bash, javascript, vuejs, postgresql y mariadb aunque también he trabajado en algunos proyectos con angular, vue.js, ionic, typescript, jquery y nodejs.
+Soy desarrollador web principalmente backend: php, laravel, python, bash, javascript, vuejs, postgresql y mariadb aunque también he trabajado en algunos proyectos con angular, ionic, typescript, jquery, bootstrap, tailwindcss y nodejs.
 
 Afinidad por el software libre, programación, iot y la tecnología en general.
 
@@ -40,7 +40,7 @@ Me gusta programar y crear contenido en mi tiempo libre, tengo varios proyectos 
 
 ---
 
-## Mis Habilidades
+## Habilidades
 
 |                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
