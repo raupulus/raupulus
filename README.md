@@ -90,67 +90,27 @@ Me gusta programar y crear contenido en mi tiempo libre, tengo varios proyectos 
     <img style="width: 15%; max-width: 130px;" src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/36.webp?raw=true" />
 </p>
 
+Debido a mi trabajo he tenido que aprender a programar en diferentes lenguajes, además de los que ya conocía.
+
+En mi tiempo libre me gusta investigar, probar, experimentar y aprender nuevas tecnologías.
+
+Me gusta mucho el mundo de la electrónica y la programación, por lo que he desarrollado algunos proyectos de IOT.
+
+La mayoría de los proyectos que realizo y comparto son de código abierto, por lo que si alguien quiere colaborar o utilizarlos, puede hacerlo sin ningún problema.
+
+También es cierto que muchos de los proyectos que realizo son para uso personal, por lo que no suelen ser tecnologías con las que trabajo a diario. Con esto quiero decir que no soy experto en todos los campos y pueden contener errores, código poco depurado, no estar actualizados o a penas tener soporte.
 
 
-Soy un fan de IOT y he programado o estoy desarrollando algunos proyectos como:
+He desarrollando algunos proyectos como:
 
-<ul>
-    <li>Contador de teclas pulsadas</li>
-    <li>Estación meteorológica</li>
-    <li>Smart Bonsai (Cuidar automáticamente un bonsai)</li>
-    <li>Sistema GPS para mi vehículo</li>
-    <li>Control de temperatura y temporizadores para encender dispositivos (routers, hdd, otros IOT...) y activarles ventiladores</li>
-    <li>Sistema de carga solar</li>
-</ul>
-
-Me encanta arduino, los esp y sobre todo raspberry pi.
-
----
-
-La lista de proyectos que llevo adelante es larga, con el poco tiempo que puedo tener libre suelen aparecer más ideas de las que puedo llevar a cabo.
-
-Algunos de los que les dedico más tiempo últimamente son:
-
-<br />
-
-<a href="https://gitlab.com/raupulus/laravel-skeleton">
-    Estructura base laravel para web y api con mi propio panel para administrador.
-</a>
-
-<br />
-
-<a href="https://github.com/raupulus/debian-developer-conf">
-    Script en bash para configurar sistemas linux como Debian, Fedora, Gentoo, Raspbian.
-</a>
-
-<br />
-
-<a href="https://gitlab.com/raupulus/api-raupulus">
-    Api para centralizar mis proyectos
-</a>
-
-<br />
-
-<a href="https://gitlab.com/raupulus/www.raupulus.es">
-    Renovar mis anticuadas webs con información personal.
-</a>
-
-<br />
-
-<a href="https://gitlab.com/raupulus/raspberry-weather-station">
-    Estación Meteorológica para raspberry con todos los sensores posibles.
-</a>
-
-<br />
-
-<a href="https://gitlab.com/raupulus/www.odin.raupulus.dev">
-    Portal para mi nuevo VPS
-</a>
-
-<br />
-
-<a href="https://gitlab.com/raupulus/python-keycounter">
-    Contador de teclas pulsadas por cada dispositivo.
-</a>
-
----
+- <a href="https://gitlab.com/raupulus/python-keycounter">Contador de teclas pulsadas</a> para linux/macos que cuenta las teclas que pulsas en un periodo de tiempo y las sube a mi api para que las pueda ver en mi web como estadísticas generales.
+- <a href="https://github.com/raupulus/debian-developer-conf">Script en bash para configurar entorno de desarrollo</a> en sistemas linux y macos como Debian, Fedora, Gentoo, Raspbian.
+- <a href="https://gitlab.com/raupulus/api-raupulus">Api</a> para centralizar mis proyectos
+- <a href="https://gitlab.com/raupulus/raspberry-weather-station">Estación Meteorológica</a> para raspberry con todos los sensores posibles.
+- <a href="https://gitlab.com/raupulus/esp32-smart-bonsai">Smart Bonsai</a> (Cuidar automáticamente un bonsai) imitando ciclo de luz en la calle y subiendo datos monitorizados a mi api.
+- Sistema GPS para mi vehículo subiendo datos a mi api mediante modem.
+- Control de temperatura y temporizadores para encender dispositivos (routers, hdd, otros IOT...) y activarles ventiladores.
+- Controladores de carga para bloques de baterías recicladas de vapers, aspiradoras y portátiles.
+- Control de temperatura y temporizadores para encender dispositivos (routers, hdd, otros IOT...) y activarles ventiladores.
+- Dos circuitos de carga solar para alimentar dispositivos IOT, equipos, routers, pantallas, servidores y cargar baterías auxiliares.
+- Varias plataformas web dónde compartir apuntes y proyectos.
