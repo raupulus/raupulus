@@ -58,16 +58,39 @@ Me gusta programar y crear contenido en mi tiempo libre, tengo varios proyectos 
     <img style="width: 15%; max-width: 130px;" src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/4.webp?raw=true" />
     <img style="width: 15%; max-width: 130px;" src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/5.webp?raw=true" />
     <img style="width: 15%; max-width: 130px;" src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/6.webp?raw=true" />
-</p>
-
-<p align='center'>
     <img style="width: 15%; max-width: 130px;" src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/7.webp?raw=true" />
     <img style="width: 15%; max-width: 130px;" src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/8.webp?raw=true" />
     <img style="width: 15%; max-width: 130px;" src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/9.webp?raw=true" />
     <img style="width: 15%; max-width: 130px;" src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/10.webp?raw=true" />
     <img style="width: 15%; max-width: 130px;" src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/11.webp?raw=true" />
     <img style="width: 15%; max-width: 130px;" src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/12.webp?raw=true" />
+    <img style="width: 15%; max-width: 130px;" src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/13.webp?raw=true" />
+    <img style="width: 15%; max-width: 130px;" src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/14.webp?raw=true" />
+    <img style="width: 15%; max-width: 130px;" src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/15.webp?raw=true" />
+    <img style="width: 15%; max-width: 130px;" src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/16.webp?raw=true" />
+    <img style="width: 15%; max-width: 130px;" src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/17.webp?raw=true" />
+    <img style="width: 15%; max-width: 130px;" src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/18.webp?raw=true" />
+    <img style="width: 15%; max-width: 130px;" src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/19.webp?raw=true" />
+    <img style="width: 15%; max-width: 130px;" src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/20.webp?raw=true" />
+    <img style="width: 15%; max-width: 130px;" src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/21.webp?raw=true" />
+    <img style="width: 15%; max-width: 130px;" src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/22.webp?raw=true" />
+    <img style="width: 15%; max-width: 130px;" src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/23.webp?raw=true" />
+    <img style="width: 15%; max-width: 130px;" src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/24.webp?raw=true" />
+    <img style="width: 15%; max-width: 130px;" src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/25.webp?raw=true" />
+    <img style="width: 15%; max-width: 130px;" src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/26.webp?raw=true" />
+    <img style="width: 15%; max-width: 130px;" src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/27.webp?raw=true" />
+    <img style="width: 15%; max-width: 130px;" src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/28.webp?raw=true" />
+    <img style="width: 15%; max-width: 130px;" src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/29.webp?raw=true" />
+    <img style="width: 15%; max-width: 130px;" src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/30.webp?raw=true" />
+    <img style="width: 15%; max-width: 130px;" src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/31.webp?raw=true" />
+    <img style="width: 15%; max-width: 130px;" src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/32.webp?raw=true" />
+    <img style="width: 15%; max-width: 130px;" src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/33.webp?raw=true" />
+    <img style="width: 15%; max-width: 130px;" src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/34.webp?raw=true" />
+    <img style="width: 15%; max-width: 130px;" src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/35.webp?raw=true" />
+    <img style="width: 15%; max-width: 130px;" src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/36.webp?raw=true" />
 </p>
+
+
 
 Soy un fan de IOT y he programado o estoy desarrollando algunos proyectos como:
 
