@@ -51,6 +51,15 @@ Me gusta programar y crear contenido en mi tiempo libre, tengo varios proyectos 
 
 ## Proyectos
 
+<p align='center'>
+    <img style="width: 15%; max-width: 130px;" src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/1.webp?raw=true" />
+    <img style="width: 15%; max-width: 130px;" src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/2.webp?raw=true" />
+    <img style="width: 15%; max-width: 130px;" src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/3.webp?raw=true" />
+    <img style="width: 15%; max-width: 130px;" src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/4.webp?raw=true" />
+    <img style="width: 15%; max-width: 130px;" src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/5.webp?raw=true" />
+    <img style="width: 15%; max-width: 130px;" src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/6.webp?raw=true" />
+</p>
+
 Soy un fan de IOT y he programado o estoy desarrollando algunos proyectos como:
 
 <ul>
