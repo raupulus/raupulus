@@ -7,28 +7,28 @@
   <!-- Redes sociales con estilos mejorados -->
   <div style="display: flex; justify-content: center; gap: 10px; margin: 20px 0;">
     <a href="https://www.youtube.com/@raupulus" target="_blank">
-      <img src="https://raw.githubusercontent.com/raupulus/raupulus/master/icons/youtube.svg" alt="YouTube" style="height: 32px; object-fit: contain;" />
+      <img src="https://raw.githubusercontent.com/raupulus/raupulus/master/icons/youtube.svg" alt="YouTube"  height="32" style="height: 32px; object-fit: contain;" />
     </a>
     <a href="https://www.twitch.tv/raupulus" target="_blank">
-      <img src="https://raw.githubusercontent.com/raupulus/raupulus/master/icons/twitch.svg" alt="Twitch" style="height: 32px; object-fit: contain;" />
+      <img src="https://raw.githubusercontent.com/raupulus/raupulus/master/icons/twitch.svg" alt="Twitch" height="32" style="height: 32px; object-fit: contain;" />
     </a>
     <a href="https://www.linkedin.com/in/raulcaropastorino" target="_blank">
-      <img src="https://raw.githubusercontent.com/raupulus/raupulus/master/icons/linkedin.svg" alt="LinkedIn" style="height: 32px; object-fit: contain;" />
+      <img src="https://raw.githubusercontent.com/raupulus/raupulus/master/icons/linkedin.svg" alt="LinkedIn" height="32" style="height: 32px; object-fit: contain;" />
     </a>
     <a href="https://gitlab.com/raupulus" target="_blank">
-      <img src="https://raw.githubusercontent.com/raupulus/raupulus/master/icons/gitlab.svg" alt="GitLab" style="height: 32px; object-fit: contain;" />
+      <img src="https://raw.githubusercontent.com/raupulus/raupulus/master/icons/gitlab.svg" alt="GitLab" height="32" style="height: 32px; object-fit: contain;" />
     </a>
     <a href="https://github.com/raupulus" target="_blank">
-      <img src="https://raw.githubusercontent.com/raupulus/raupulus/master/icons/github.svg" alt="GitHub" style="height: 32px; object-fit: contain;" />
+      <img src="https://raw.githubusercontent.com/raupulus/raupulus/master/icons/github.svg" alt="GitHub" height="32" style="height: 32px; object-fit: contain;" />
     </a>
     <a href="https://mastodon.online/@raupulus" target="_blank">
-      <img src="https://raw.githubusercontent.com/raupulus/raupulus/master/icons/mastodon.svg" alt="Mastodon" style="height: 32px; object-fit: contain;" />
+      <img src="https://raw.githubusercontent.com/raupulus/raupulus/master/icons/mastodon.svg" alt="Mastodon" height="32" style="height: 32px; object-fit: contain;" />
     </a>
     <a href="https://twitter.com/raupulus" target="_blank">
-      <img src="https://raw.githubusercontent.com/raupulus/raupulus/master/icons/twitter.svg" alt="Twitter" style="height: 32px; object-fit: contain;" />
+      <img src="https://raw.githubusercontent.com/raupulus/raupulus/master/icons/twitter.svg" alt="Twitter" height="32" style="height: 32px; object-fit: contain;" />
     </a>
     <a href="https://www.buymeacoffee.com/raupulus" target="_blank">
-      <img src="https://raw.githubusercontent.com/raupulus/raupulus/master/icons/by-me-a-coffee.png" alt="Buy Me A Coffee" style="height: 32px; object-fit: contain;" />
+      <img src="https://raw.githubusercontent.com/raupulus/raupulus/master/icons/by-me-a-coffee.png" alt="Buy Me A Coffee" height="32" style="height: 32px; object-fit: contain;" />
     </a>
   </div>
 
