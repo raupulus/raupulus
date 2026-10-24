@@ -1,38 +1,41 @@
-# <img src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/banner.webp" alt="Raúl Caro Pastorino" width="100%" />
+# <img src="https://raw.githubusercontent.com/raupulus/raupulus/main/images/banner.webp" alt="Raúl Caro Pastorino" width="100%" />
 
 <div align="center">
   <h1>👋 Hola, soy Raúl Caro Pastorino</h1>
-  <p><strong>Desarrollador Full Stack | Entusiasta del Software Libre | Especialista en IoT</strong></p>
+  <p><strong>Desarrollador Full Stack Senior | Backend PHP & Laravel | IA Aplicada & IoT</strong></p>
 
   <!-- Redes sociales con estilos mejorados -->
   <div style="display: flex; justify-content: center; gap: 10px; margin: 20px 0;">
     <a href="https://www.youtube.com/@raupulus" target="_blank">
-      <img src="https://raw.githubusercontent.com/raupulus/raupulus/master/icons/youtube.svg" alt="YouTube"  height="32" style="height: 32px; object-fit: contain;" />
+      <img src="https://raw.githubusercontent.com/raupulus/raupulus/main/icons/youtube.svg" alt="YouTube" height="32" style="height: 32px; object-fit: contain;" />
     </a>
     <a href="https://www.twitch.tv/raupulus" target="_blank">
-      <img src="https://raw.githubusercontent.com/raupulus/raupulus/master/icons/twitch.svg" alt="Twitch" height="32" style="height: 32px; object-fit: contain;" />
+      <img src="https://raw.githubusercontent.com/raupulus/raupulus/main/icons/twitch.svg" alt="Twitch" height="32" style="height: 32px; object-fit: contain;" />
+    </a>
+    <a href="https://t.me/raupulus_diffusion" target="_blank">
+      <img src="https://raw.githubusercontent.com/raupulus/raupulus/main/icons/telegram.svg" alt="Telegram" height="32" style="height: 32px; object-fit: contain;" />
     </a>
     <a href="https://www.linkedin.com/in/raulcaropastorino" target="_blank">
-      <img src="https://raw.githubusercontent.com/raupulus/raupulus/master/icons/linkedin.svg" alt="LinkedIn" height="32" style="height: 32px; object-fit: contain;" />
+      <img src="https://raw.githubusercontent.com/raupulus/raupulus/main/icons/linkedin.svg" alt="LinkedIn" height="32" style="height: 32px; object-fit: contain;" />
     </a>
     <a href="https://gitlab.com/raupulus" target="_blank">
-      <img src="https://raw.githubusercontent.com/raupulus/raupulus/master/icons/gitlab.svg" alt="GitLab" height="32" style="height: 32px; object-fit: contain;" />
+      <img src="https://raw.githubusercontent.com/raupulus/raupulus/main/icons/gitlab.svg" alt="GitLab" height="32" style="height: 32px; object-fit: contain;" />
     </a>
     <a href="https://github.com/raupulus" target="_blank">
-      <img src="https://raw.githubusercontent.com/raupulus/raupulus/master/icons/github.svg" alt="GitHub" height="32" style="height: 32px; object-fit: contain;" />
+      <img src="https://raw.githubusercontent.com/raupulus/raupulus/main/icons/github.svg" alt="GitHub" height="32" style="height: 32px; object-fit: contain;" />
     </a>
     <a href="https://mastodon.online/@raupulus" target="_blank">
-      <img src="https://raw.githubusercontent.com/raupulus/raupulus/master/icons/mastodon.svg" alt="Mastodon" height="32" style="height: 32px; object-fit: contain;" />
+      <img src="https://raw.githubusercontent.com/raupulus/raupulus/main/icons/mastodon.svg" alt="Mastodon" height="32" style="height: 32px; object-fit: contain;" />
     </a>
     <a href="https://twitter.com/raupulus" target="_blank">
-      <img src="https://raw.githubusercontent.com/raupulus/raupulus/master/icons/twitter.svg" alt="Twitter" height="32" style="height: 32px; object-fit: contain;" />
+      <img src="https://raw.githubusercontent.com/raupulus/raupulus/main/icons/twitter.svg" alt="Twitter" height="32" style="height: 32px; object-fit: contain;" />
     </a>
     <a href="https://www.buymeacoffee.com/raupulus" target="_blank">
-      <img src="https://raw.githubusercontent.com/raupulus/raupulus/master/icons/by-me-a-coffee.png" alt="Buy Me A Coffee" height="32" style="height: 32px; object-fit: contain;" />
+      <img src="https://raw.githubusercontent.com/raupulus/raupulus/main/icons/by-me-a-coffee.png" alt="Buy Me A Coffee" height="32" style="height: 32px; object-fit: contain;" />
     </a>
   </div>
 
-  <p><strong>🌐 <a href="https://raupulus.dev">raupulus.dev</a></strong></p>
+  <p><strong>🌐 <a href="https://raupulus.dev">raupulus.dev</a> &nbsp;|&nbsp; 📄 <a href="https://curriculum.raupulus.dev">CV Online</a> &nbsp;|&nbsp; 📬 <a href="mailto:public@raupulus.dev">public@raupulus.dev</a></strong></p>
 </div>
 
 ---
@@ -49,21 +52,26 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raupulus&theme=onedark&column=-1" alt="Trofeos de GitHub" width="90%" />
+  <img src="https://streak-stats.demolab.com?user=raupulus&theme=radical" alt="Racha de GitHub" width="90%" />
+</div>
+
+<div align="center">
+  <img src="https://github-trophies.devomb.com/?username=raupulus&theme=onedark&column=-1" alt="Trofeos de GitHub" width="90%" />
 </div>
 
 ---
 
 ## 🧑‍💻 Acerca de mí
 
-Soy un **desarrollador web full stack** con amplia experiencia en tecnologías principalmente backend aunque también frontend. Mi pasión por el **software libre**, la **programación** y la **tecnología IoT** me ha llevado a crear múltiples proyectos de código abierto.
+Soy un **desarrollador web full stack senior** con más de 15 años de experiencia, especializado en **backend PHP/Laravel**, **PostgreSQL** e **IA aplicada en producción** (RAG, agentes y automatización). Entusiasta y divulgador del **software libre** desde 2001, también administro sistemas **GNU/Linux** y desarrollo proyectos de **IoT y hardware libre** (sensores, estaciones meteorológicas y monitores de energía con ESP32 y Raspberry Pi conectados a mis propias APIs).
 
 ### 🎯 Especialidades
-- **Backend**: PHP, Laravel, Python, Node.js
-- **Frontend**: JavaScript, Vue.js, Angular, TypeScript
-- **Bases de datos**: PostgreSQL, MariaDB, MySQL
-- **IoT**: ESP32, Raspberry Pi, Arduino
-- **Sistemas**: Linux (Debian, Fedora, Gentoo), macOS
+- **Backend & Arquitectura**: PHP, Laravel, Python, Node.js, APIs RESTful
+- **Inteligencia Artificial**: Agentes IA, RAG, integración de LLMs en producción, automatización
+- **Bases de datos**: PostgreSQL, MariaDB, MySQL, SQLite
+- **Frontend Reactivo**: JavaScript, TypeScript, Vue.js (Vue 3), Nuxt.js, Angular, TailwindCSS
+- **IoT & Hardware Libre**: ESP32, Raspberry Pi, Raspberry Pi Pico, Arduino, Sensores, LoRa / Meshtastic
+- **Sistemas & DevOps**: GNU/Linux (Debian, Fedora, Gentoo), macOS, Docker, Bash scripting
 
 ---
 
@@ -91,6 +99,11 @@ Soy un **desarrollador web full stack** con amplia experiencia en tecnologías p
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### IoT y Hardware Libre
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
 ### Herramientas y Plataformas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -140,42 +153,42 @@ Soy un **desarrollador web full stack** con amplia experiencia en tecnologías p
 ## 🎨 Galería de Proyectos
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/1.webp" alt="Proyecto 1" width="15%" style="margin: 5px; border-radius: 8px;" />
-  <img src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/2.webp" alt="Proyecto 2" width="15%" style="margin: 5px; border-radius: 8px;" />
-  <img src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/3.webp" alt="Proyecto 3" width="15%" style="margin: 5px; border-radius: 8px;" />
-  <img src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/4.webp" alt="Proyecto 4" width="15%" style="margin: 5px; border-radius: 8px;" />
-  <img src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/5.webp" alt="Proyecto 5" width="15%" style="margin: 5px; border-radius: 8px;" />
-  <img src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/6.webp" alt="Proyecto 6" width="15%" style="margin: 5px; border-radius: 8px;" />
-  <img src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/7.webp" alt="Proyecto 7" width="15%" style="margin: 5px; border-radius: 8px;" />
-  <img src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/8.webp" alt="Proyecto 8" width="15%" style="margin: 5px; border-radius: 8px;" />
-  <img src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/9.webp" alt="Proyecto 9" width="15%" style="margin: 5px; border-radius: 8px;" />
-  <img src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/10.webp" alt="Proyecto 10" width="15%" style="margin: 5px; border-radius: 8px;" />
-  <img src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/11.webp" alt="Proyecto 11" width="15%" style="margin: 5px; border-radius: 8px;" />
-  <img src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/12.webp" alt="Proyecto 12" width="15%" style="margin: 5px; border-radius: 8px;" />
-  <img src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/13.webp" alt="Proyecto 13" width="15%" style="margin: 5px; border-radius: 8px;" />
-  <img src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/14.webp" alt="Proyecto 14" width="15%" style="margin: 5px; border-radius: 8px;" />
-  <img src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/15.webp" alt="Proyecto 15" width="15%" style="margin: 5px; border-radius: 8px;" />
-  <img src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/16.webp" alt="Proyecto 16" width="15%" style="margin: 5px; border-radius: 8px;" />
-  <img src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/17.webp" alt="Proyecto 17" width="15%" style="margin: 5px; border-radius: 8px;" />
-  <img src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/18.webp" alt="Proyecto 18" width="15%" style="margin: 5px; border-radius: 8px;" />
-  <img src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/19.webp" alt="Proyecto 19" width="15%" style="margin: 5px; border-radius: 8px;" />
-  <img src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/20.webp" alt="Proyecto 20" width="15%" style="margin: 5px; border-radius: 8px;" />
-  <img src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/21.webp" alt="Proyecto 21" width="15%" style="margin: 5px; border-radius: 8px;" />
-  <img src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/22.webp" alt="Proyecto 22" width="15%" style="margin: 5px; border-radius: 8px;" />
-  <img src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/23.webp" alt="Proyecto 23" width="15%" style="margin: 5px; border-radius: 8px;" />
-  <img src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/24.webp" alt="Proyecto 24" width="15%" style="margin: 5px; border-radius: 8px;" />
-  <img src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/25.webp" alt="Proyecto 25" width="15%" style="margin: 5px; border-radius: 8px;" />
-  <img src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/26.webp" alt="Proyecto 26" width="15%" style="margin: 5px; border-radius: 8px;" />
-  <img src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/27.webp" alt="Proyecto 27" width="15%" style="margin: 5px; border-radius: 8px;" />
-  <img src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/28.webp" alt="Proyecto 28" width="15%" style="margin: 5px; border-radius: 8px;" />
-  <img src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/29.webp" alt="Proyecto 29" width="15%" style="margin: 5px; border-radius: 8px;" />
-  <img src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/30.webp" alt="Proyecto 30" width="15%" style="margin: 5px; border-radius: 8px;" />
-  <img src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/31.webp" alt="Proyecto 31" width="15%" style="margin: 5px; border-radius: 8px;" />
-  <img src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/32.webp" alt="Proyecto 32" width="15%" style="margin: 5px; border-radius: 8px;" />
-  <img src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/33.webp" alt="Proyecto 33" width="15%" style="margin: 5px; border-radius: 8px;" />
-  <img src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/34.webp" alt="Proyecto 34" width="15%" style="margin: 5px; border-radius: 8px;" />
-  <img src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/35.webp" alt="Proyecto 35" width="15%" style="margin: 5px; border-radius: 8px;" />
-  <img src="https://raw.githubusercontent.com/raupulus/raupulus/master/images/projects/36.webp" alt="Proyecto 36" width="15%" style="margin: 5px; border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/raupulus/raupulus/main/images/projects/1.webp" alt="Proyecto 1" width="15%" style="margin: 5px; border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/raupulus/raupulus/main/images/projects/2.webp" alt="Proyecto 2" width="15%" style="margin: 5px; border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/raupulus/raupulus/main/images/projects/3.webp" alt="Proyecto 3" width="15%" style="margin: 5px; border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/raupulus/raupulus/main/images/projects/4.webp" alt="Proyecto 4" width="15%" style="margin: 5px; border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/raupulus/raupulus/main/images/projects/5.webp" alt="Proyecto 5" width="15%" style="margin: 5px; border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/raupulus/raupulus/main/images/projects/6.webp" alt="Proyecto 6" width="15%" style="margin: 5px; border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/raupulus/raupulus/main/images/projects/7.webp" alt="Proyecto 7" width="15%" style="margin: 5px; border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/raupulus/raupulus/main/images/projects/8.webp" alt="Proyecto 8" width="15%" style="margin: 5px; border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/raupulus/raupulus/main/images/projects/9.webp" alt="Proyecto 9" width="15%" style="margin: 5px; border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/raupulus/raupulus/main/images/projects/10.webp" alt="Proyecto 10" width="15%" style="margin: 5px; border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/raupulus/raupulus/main/images/projects/11.webp" alt="Proyecto 11" width="15%" style="margin: 5px; border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/raupulus/raupulus/main/images/projects/12.webp" alt="Proyecto 12" width="15%" style="margin: 5px; border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/raupulus/raupulus/main/images/projects/13.webp" alt="Proyecto 13" width="15%" style="margin: 5px; border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/raupulus/raupulus/main/images/projects/14.webp" alt="Proyecto 14" width="15%" style="margin: 5px; border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/raupulus/raupulus/main/images/projects/15.webp" alt="Proyecto 15" width="15%" style="margin: 5px; border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/raupulus/raupulus/main/images/projects/16.webp" alt="Proyecto 16" width="15%" style="margin: 5px; border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/raupulus/raupulus/main/images/projects/17.webp" alt="Proyecto 17" width="15%" style="margin: 5px; border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/raupulus/raupulus/main/images/projects/18.webp" alt="Proyecto 18" width="15%" style="margin: 5px; border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/raupulus/raupulus/main/images/projects/19.webp" alt="Proyecto 19" width="15%" style="margin: 5px; border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/raupulus/raupulus/main/images/projects/20.webp" alt="Proyecto 20" width="15%" style="margin: 5px; border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/raupulus/raupulus/main/images/projects/21.webp" alt="Proyecto 21" width="15%" style="margin: 5px; border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/raupulus/raupulus/main/images/projects/22.webp" alt="Proyecto 22" width="15%" style="margin: 5px; border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/raupulus/raupulus/main/images/projects/23.webp" alt="Proyecto 23" width="15%" style="margin: 5px; border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/raupulus/raupulus/main/images/projects/24.webp" alt="Proyecto 24" width="15%" style="margin: 5px; border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/raupulus/raupulus/main/images/projects/25.webp" alt="Proyecto 25" width="15%" style="margin: 5px; border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/raupulus/raupulus/main/images/projects/26.webp" alt="Proyecto 26" width="15%" style="margin: 5px; border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/raupulus/raupulus/main/images/projects/27.webp" alt="Proyecto 27" width="15%" style="margin: 5px; border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/raupulus/raupulus/main/images/projects/28.webp" alt="Proyecto 28" width="15%" style="margin: 5px; border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/raupulus/raupulus/main/images/projects/29.webp" alt="Proyecto 29" width="15%" style="margin: 5px; border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/raupulus/raupulus/main/images/projects/30.webp" alt="Proyecto 30" width="15%" style="margin: 5px; border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/raupulus/raupulus/main/images/projects/31.webp" alt="Proyecto 31" width="15%" style="margin: 5px; border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/raupulus/raupulus/main/images/projects/32.webp" alt="Proyecto 32" width="15%" style="margin: 5px; border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/raupulus/raupulus/main/images/projects/33.webp" alt="Proyecto 33" width="15%" style="margin: 5px; border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/raupulus/raupulus/main/images/projects/34.webp" alt="Proyecto 34" width="15%" style="margin: 5px; border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/raupulus/raupulus/main/images/projects/35.webp" alt="Proyecto 35" width="15%" style="margin: 5px; border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/raupulus/raupulus/main/images/projects/36.webp" alt="Proyecto 36" width="15%" style="margin: 5px; border-radius: 8px;" />
 </div>
 
 ---
@@ -183,23 +196,24 @@ Soy un **desarrollador web full stack** con amplia experiencia en tecnologías p
 ## 📈 Actividad Reciente
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raupulus&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graphkayan.vercel.app/graph?username=raupulus&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" />
 </div>
 
 ---
 
-## 🤝 Colaboración
+## 🤝 Colaboración y Contacto
 
 Estoy siempre abierto a:
 - 🔓 **Proyectos de código abierto**
-- 🤖 **Colaboraciones en IoT**
-- 💡 **Intercambio de conocimientos**
-- 🌱 **Mentoría y aprendizaje**
+- 🤖 **Colaboraciones en IoT y Hardware Libre**
+- 🧠 **Proyectos de Backend e Inteligencia Artificial**
+- 💡 **Intercambio de conocimientos y mentoría**
 
 ---
 
 <div align="center">
   <p><strong>💬 ¿Tienes alguna pregunta o quieres colaborar?</strong></p>
-  <p>No dudes en contactarme a través de cualquiera de mis redes sociales</p>
+  <p>📬 <strong>Email:</strong> <a href="mailto:public@raupulus.dev">public@raupulus.dev</a> &nbsp;|&nbsp; 📢 <strong>Telegram:</strong> <a href="https://t.me/raupulus_diffusion" target="_blank">@raupulus_diffusion</a></p>
+  <p>🌐 <a href="https://raupulus.dev">raupulus.dev</a> &nbsp;|&nbsp; 📄 <a href="https://curriculum.raupulus.dev">CV Online</a></p>
   <p><em>"El código es poesía, la tecnología es arte"</em></p>
 </div>
